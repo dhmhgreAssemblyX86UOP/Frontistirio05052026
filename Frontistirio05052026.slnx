@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="CSampleFilter/CSampleFilter.vcxproj" />
+  <Project Path="DigitalFilter1/DigitalFilter1.vcxproj" />
   <Project Path="StackFrame1/StackFrame1.vcxproj" />
 </Solution>
